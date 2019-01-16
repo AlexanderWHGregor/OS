@@ -1,0 +1,37 @@
+MODE: LIFO
+Starting job #6
+Allocating 30
+Memory at 994
+Starting job #5
+Allocating 20
+Memory at 974
+Starting job #4
+Allocating 140
+Memory at 834
+Starting job #3
+Allocating 130
+Memory at 704
+Job #6 completed
+Deallocating 30
+Memory at 734
+Starting job #2
+Allocating 10
+Memory at 724
+Job #5 completed
+Deallocating 20
+Memory at 744
+Starting job #1
+Allocating 120
+Memory at 624
+Job #4 completed
+Deallocating 140
+Memory at 764
+Job #3 completed
+Deallocating 130
+Memory at 894
+Job #2 completed
+Deallocating 10
+Memory at 904
+Job #1 completed
+Deallocating 120
+Memory at 1024
