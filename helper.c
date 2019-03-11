@@ -1,7 +1,4 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
 * helper.c contains all the helper methods for the shell
 *

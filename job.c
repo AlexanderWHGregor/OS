@@ -1,7 +1,4 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
 * job.c cotains the helper functions for the job typedef
 *

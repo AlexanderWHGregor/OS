@@ -1,7 +1,4 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
 * execute.c will handle the flow of information between processes as well as it
 * exectes these processes.

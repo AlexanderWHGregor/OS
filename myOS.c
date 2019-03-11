@@ -1,10 +1,6 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
-* myOS.c is the entry point to tHE mini OS that you'll be developing throughout
-* CS3305.
+* myOS.c is the entry point to the mini OS 
 *
 ******************************************************************************/
 

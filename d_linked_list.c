@@ -1,7 +1,4 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
 * d_linked_list.c contins helper functions for the doubly linked list typedef
 *

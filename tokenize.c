@@ -1,7 +1,4 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
 * tokenize.c tokenizes the input lines. sperates commands by '<', '>' and '|'
 *

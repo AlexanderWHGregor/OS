@@ -1,7 +1,4 @@
 /******************************************************************************
-* 
-* Name: 	Zaid Albirawi
-* Email: 	zalbiraw@uwo.ca
 *
 * shell.c processes the users input, passes it to a tokenizer, and then passes
 * the tokens obtained to the process_commands function which will process and
